@@ -1,0 +1,4 @@
+xpto == teste;
+
+
+teste = clonagem;
